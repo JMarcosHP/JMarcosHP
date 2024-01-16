@@ -1,7 +1,10 @@
 <h1 align="center">Hola 👋, Soy Jehú Herrera</h1>
 <h3 align="center">Soy un Desarrollador Web, Administrador de Sistemas y Técnico en Mantenimiento de equipos de cómputo.</h3>
 
-- 💬 Sobre mí **Hasta el día de hoy he estado trabajando como técnico en soporte y mantenimiento de equipos de cómputo. Durante este tiempo me he capacitado, aprendiendo diferentes formas de realizar más eficiente el ensamble, reparación y el mantenimiento de equipos de cómputo. También he aprendido diversas habilidades que me han ayudado para ser un buen desarrollador de aplicaciones web y administrador de sistemas operativos (Linux, Windows, MacOS).**
+- 💬 Sobre mí:
+**Hasta el día de hoy he estado trabajando como técnico en soporte y mantenimiento de equipos de cómputo. Durante este tiempo me he capacitado, aprendiendo diferentes formas de realizar más eficiente el ensamble, reparación y el mantenimiento de equipos de cómputo.**
+
+**También he aprendido diversas habilidades que me han ayudado para ser un buen desarrollador de aplicaciones web y administrador de sistemas operativos (Linux, Windows, MacOS).**
 
 - 📫 Mi correo únicamente para trabajo y negocios: **tec.mttopc@outlook.com**
 
